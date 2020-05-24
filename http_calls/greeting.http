@@ -1,0 +1,8 @@
+GET http://{{host}}:{{port}}/greeting
+Accept: text/html
+
+###
+GET http://{{host}}:{{port}}/greeting?name=test
+Accept: text/html
+
+###

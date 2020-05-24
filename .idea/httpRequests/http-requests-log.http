@@ -1,0 +1,113 @@
+GET http://localhost:8080/greeting?name=test
+Accept: text/html
+
+<> 2020-05-24T094019.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/html
+
+<> 2020-05-24T094017.200.html
+
+###
+
+GET http://localhost:8080
+Accept: text/html
+
+<> 2020-05-24T094010.200.html
+
+###
+
+GET http://localhost:8080
+Accept: text/html
+
+<> 2020-05-24T093951.404.html
+
+###
+
+GET http://localhost:8080/greeting?name=test
+Accept: text/html
+
+<> 2020-05-24T093846.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/html
+
+<> 2020-05-24T093844.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/plain
+
+<> 2020-05-24T093734.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/plain
+
+<> 2020-05-24T093618.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/plain
+
+<> 2020-05-24T093543.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/plain
+
+<> 2020-05-24T093532.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/plain
+
+<> 2020-05-24T093455.200.html
+
+###
+
+GET http://localhost:8080/greeting
+Accept: text/plain
+
+<> 2020-05-24T093441.200.html
+
+###
+
+GET http://localhost:8080
+Accept: text/plain
+
+###
+
+GET http://localhost:8080
+Accept: text/plain
+
+###
+
+GET http://localhost:8080
+Accept: text/plain
+
+<> 2020-05-24T091617.200.html
+
+###
+
+GET http://localhost:8080
+Accept: text/plain
+
+<> 2020-05-24T083512.200.html
+
+###
+
+GET http://localhost:8080
+Accept: text/plain
+
+###
+
