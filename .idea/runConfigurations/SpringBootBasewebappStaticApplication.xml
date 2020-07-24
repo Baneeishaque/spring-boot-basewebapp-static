@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringBootBasewebappStaticApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <module name="spring-boot-basewebapp-static" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="springboot.basewebappstatic.SpringBootBasewebappStaticApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
